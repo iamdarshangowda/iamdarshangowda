@@ -27,6 +27,7 @@
 
 <h2 align="left">Projects:</h2>
 
+[![Quizzical-App](https://github-readme-stats.vercel.app/api/pin/?username=iamdarshangowda&repo=Quizzical-App)](https://github.com/iamdarshangowda/Quizzical-App)
 [![Tenzies-Game](https://github-readme-stats.vercel.app/api/pin/?username=iamdarshangowda&repo=Tenzies-Game-ReactJs)](https://github.com/iamdarshangowda/Tenzies-Game-ReactJs)
 [![Form-Validation](https://github-readme-stats.vercel.app/api/pin/?username=iamdarshangowda&repo=Form-Validation-ReactJs)](https://github.com/iamdarshangowda/Form-Validation-ReactJs)
 [![Meme-Generator](https://github-readme-stats.vercel.app/api/pin/?username=iamdarshangowda&repo=Meme-Generator-ReactJs)](https://github.com/iamdarshangowda/Meme-Generator-ReactJs)
