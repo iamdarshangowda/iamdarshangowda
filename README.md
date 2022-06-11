@@ -22,9 +22,6 @@
       <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; 
 </p>
 
-<h2 align="left">Github Stats:</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamdarshangowda&show_icons=true&locale=en&theme=synthwave" alt="darshangowda" />
-
 <h2 align="left">Projects:</h2>
 
 [![Quizzical-App](https://github-readme-stats.vercel.app/api/pin/?username=iamdarshangowda&repo=Quizzical-App)](https://github.com/iamdarshangowda/Quizzical-App)
