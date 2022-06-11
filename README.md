@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshan Gowda&#128525;</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **React JS**
-- 🤔 I’m looking for Job
+- 🌱 I’m currently building projects and learning **React JS**
 - 📫 How to reach me: <a href="mailto: iamdarshangowda@outlook.com">Send Mail</a>
 
 <h2 align="left">Connect with me:</h2>
