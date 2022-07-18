@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Darshan Gowda&#128525;</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently building projects and learning **React JS**
-- 📫 How to reach me: <a href="mailto: iamdarshangowda@outlook.com">Send Mail</a>
+- 🌱 I’m currently working on **The Frontend Developer Career Path** from <a href="https://scrimba.com/allcourses">**Scrimba**</a>
+- 🐱‍🏍 I'm currently learning ReactJs
+- 🤞  I'm looking for help with getting an Interview
+- 📫 How to reach me: <a href="mailto: iamdarshangowda@outlook.com">iamdarshangowda@outlook.com</a>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
