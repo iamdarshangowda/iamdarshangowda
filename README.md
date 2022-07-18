@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darshan Gowda&#128525;</h1>
+<h1 align="center">Hi 👋, I'm Darshan Gowda</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently working on **The Frontend Developer Career Path** from <a href="https://scrimba.com/allcourses">**Scrimba**</a>
