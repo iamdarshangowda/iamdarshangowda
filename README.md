@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Darshan Gowda</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently working on **The Frontend Developer Career Path** from <a href="https://scrimba.com/allcourses">**Scrimba**</a>
-- 🐱‍🏍 I'm currently learning ReactJs
-- 🤞  I'm looking for help with getting an Interview
+- 🌱 I’m currently working as Frontend Developer Intern at Think201, Bangalore
+- 🐱‍🏍 Working with Nextjs, Typescript and Material UI
+- 🤞  I'm looking for full time job opportunities.
 - 📫 How to reach me: <a href="mailto: iamdarshangowda@outlook.com">iamdarshangowda@outlook.com</a>
 
 <h2 align="left">Connect with me:</h2>
