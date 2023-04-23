@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Darshan Gowda</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently working as Frontend Developer Intern at Think201, Bangalore
-- 🐱‍🏍 Working with Nextjs, Typescript and Material UI
-- 🤞  I'm looking for full time job opportunities.
+- 🌱 I’m currently working as Frontend Developer at MyLang, Bangalore
+- 🐱‍🏍 Working with Nextjs, Typescript and TailwindCSS
 - 📫 How to reach me: <a href="mailto: iamdarshangowda@outlook.com">iamdarshangowda@outlook.com</a>
 
 <h2 align="left">Connect with me:</h2>
