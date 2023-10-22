@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently working as Frontend Developer at MyLang, Bangalore
-- 🐱‍🏍 Working with Nextjs, Typescript and TailwindCSS
+- 🐱‍🏍 Skills: Nextjs, ReactJs, Typescript and TailwindCSS
 - 📫 How to reach me: <a href="mailto: iamdarshangowda@outlook.com">iamdarshangowda@outlook.com</a>
 
 <h2 align="left">Connect with me:</h2>
